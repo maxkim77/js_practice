@@ -41,7 +41,6 @@ var mySecondTrain = new Train('blue', true);
 var myThirdTrain = new Train('blue', false);
 
 var train4 = new Train('red', false);
-train4.toggleLigths();
 train4.lightStatus();
 train4.getSelf();
 train4.getPrototype();
